@@ -1,10 +1,10 @@
 {
-  "version": "v415.1",
+  "version": "v1.0",
   "date": "1663414112",
   "variants": [
     {
       "name": "iMOS_arm64_bgN",
-      "size": "1461901116",
+      "size": "2937197297",
       "url": "https://github.com/ponces/treble_build_pe/releases/download/v415.1/PixelExperience_arm64-ab-12.1-20220823-UNOFFICIAL.img.xz"
     }
   ]
