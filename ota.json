@@ -4,8 +4,8 @@
   "variants": [
     {
       "name": "iMOS_arm64_bgN",
-      "size": "2937197297",
-      "url": "https://github.com/ponces/treble_build_pe/releases/download/v415.1/PixelExperience_arm64-ab-12.1-20220823-UNOFFICIAL.img.xz"
+      "size": "837197297",
+      "url": "https://github.com/iMOS-OSS/imos_release/releases/download/v1.0/system.img.xz"
     }
   ]
 }
