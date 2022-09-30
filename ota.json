@@ -1,11 +1,11 @@
 {
-  "version": "v1.1",
-  "date": "1663907086",
+  "version": "v1.3",
+  "date": "1664514005",
   "variants": [
     {
       "name": "iMOS_arm64_bgS",
       "size": "1037197297",
-      "url": "https://repository.im4.solu.systems/updates/iMOS_arm64_bgS_Sep23.img.xz"
+      "url": "https://repository.im4.solu.systems/updates/iMOS_arm64_bgS_Sep30.img.xz"
     }
   ]
 }
